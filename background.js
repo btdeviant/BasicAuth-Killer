@@ -9,8 +9,8 @@ function processPendingCallbacks() {
 
   bkg.console.log("Calling back with credentials");
   var callback = gPendingCallbacks.pop();
-  callback({authCredentials: {username: "staging",
-                              password: "staging2012sh"}});
+  callback({authCredentials: {username: "<>",
+                              password: "<>"}});
 }
 
 function handleAuthRequest(details, callback) {
