@@ -1,9 +1,7 @@
-
 {
-  "name": "Sweety High Basic Auth Killer",
+  "name": "Basic Auth Killer",
   "version": "1.0",
-  "description": "Send credentials to basic HTTP auth pages.",
-  "browser_action": {
+    "browser_action": {
     "default_icon": "icon.png"
   },
 
