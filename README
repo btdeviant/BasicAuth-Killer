@@ -1,3 +1,7 @@
-Chrome Basic Auth Extension 
+Chrome Basic Auth Killer Extension 
 
-Please see attached readme
+## Update (2022)
+
+It's been ten years since I wrote this. I think I built this Chrome extension to handle basic auth prompts at the browser level when the browser was being controlled via Selenium. The gist was that the auth creds would live in the manifest.json file and be passed in automatically on browser prompt.. I think? 
+
+Presumably the extension was either packaged into the Chrome binary or imported via a custom browser profile via the Selenium browser capabalities instantiation.  ¯\_(ツ)_/¯ 
